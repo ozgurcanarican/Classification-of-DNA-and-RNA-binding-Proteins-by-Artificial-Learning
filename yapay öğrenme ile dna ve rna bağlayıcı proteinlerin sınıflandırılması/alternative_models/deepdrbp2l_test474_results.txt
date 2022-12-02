@@ -1,0 +1,13 @@
+DeepDRBP-2L RESULTS ON TEST474
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.825     0.825     0.825       171
+         dbp      0.841     0.887     0.863       221
+         rbp      0.554     0.456     0.500        68
+
+    accuracy                          0.800       460
+   macro avg      0.740     0.722     0.729       460
+weighted avg      0.792     0.800     0.795       460

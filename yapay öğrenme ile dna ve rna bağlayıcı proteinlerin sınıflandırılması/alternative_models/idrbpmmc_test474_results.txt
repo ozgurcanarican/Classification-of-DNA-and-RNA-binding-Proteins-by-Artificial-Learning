@@ -1,0 +1,13 @@
+iDRBP_MMC RESULTS ON TEST474
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.763     0.509     0.611       171
+         dbp      0.633     0.851     0.726       221
+         rbp      0.408     0.294     0.342        68
+
+    accuracy                          0.641       460
+   macro avg      0.601     0.551     0.559       460
+weighted avg      0.648     0.641     0.626       460

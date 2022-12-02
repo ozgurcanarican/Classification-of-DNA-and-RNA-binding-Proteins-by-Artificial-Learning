@@ -1,0 +1,13 @@
+iDRBP_MMC RESULTS ON PDB255
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.486     0.183     0.266        93
+         dbp      0.395     0.696     0.504        92
+         rbp      0.527     0.433     0.475        67
+
+    accuracy                          0.437       252
+   macro avg      0.469     0.437     0.415       252
+weighted avg      0.464     0.437     0.408       252

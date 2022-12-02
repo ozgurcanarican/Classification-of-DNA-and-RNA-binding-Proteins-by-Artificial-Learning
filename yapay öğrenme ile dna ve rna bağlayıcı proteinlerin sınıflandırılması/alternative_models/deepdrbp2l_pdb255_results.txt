@@ -1,0 +1,13 @@
+DeepDRBP-2L RESULTS ON PDB255
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.712     0.452     0.553        93
+         dbp      0.555     0.717     0.626        92
+         rbp      0.622     0.687     0.652        67
+
+    accuracy                          0.611       252
+   macro avg      0.629     0.619     0.610       252
+weighted avg      0.630     0.611     0.606       252
