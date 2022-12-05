@@ -1,0 +1,20 @@
+PIPELINE-2 CNN-BiLSTM RESULTS ON TEST474
+
+    -6000 features selected
+    -CNN-BiLSTM Classifier trained
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.849     0.484     0.617       221
+         dbp      0.502     0.871     0.637       171
+         rbp      0.162     0.088     0.114        68
+
+   micro avg      0.570     0.570     0.570       460
+   macro avg      0.504     0.481     0.456       460
+weighted avg      0.618     0.570     0.550       460
+ samples avg      0.570     0.570     0.570       460
+
+
+Runtime: 19.561691000000792 seconds

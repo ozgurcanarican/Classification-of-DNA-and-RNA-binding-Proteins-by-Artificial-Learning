@@ -1,0 +1,19 @@
+PIPELINE-2 RF RESULTS ON PDB255
+
+    -6000 features selected
+    -Random Forest Classifier trained
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.405     0.761     0.528        92
+         dbp      0.308     0.043     0.075        93
+         rbp      0.515     0.507     0.511        67
+
+    accuracy                          0.429       252
+   macro avg      0.409     0.437     0.372       252
+weighted avg      0.398     0.429     0.357       252
+
+
+Runtime: 0.04838059999997313 seconds
