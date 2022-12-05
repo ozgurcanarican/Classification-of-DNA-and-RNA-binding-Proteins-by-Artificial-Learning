@@ -1,0 +1,20 @@
+PIPELINE-3 CNN-BiLSTM RESULTS ON PDB255
+
+    -4000 features selected
+    -CNN-BiLSTM Classifier trained
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.396     0.870     0.544        92
+         dbp      0.000     0.000     0.000        93
+         rbp      0.500     0.358     0.417        67
+
+   micro avg      0.413     0.413     0.413       252
+   macro avg      0.299     0.409     0.321       252
+weighted avg      0.278     0.413     0.310       252
+ samples avg      0.413     0.413     0.413       252
+
+
+Runtime: 6.818268500000158 seconds

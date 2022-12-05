@@ -1,0 +1,19 @@
+PIPELINE-3 RF RESULTS ON TEST474
+
+    -4000 features selected
+    -Random Forest Classifier trained
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.866     0.674     0.758       221
+         dbp      0.734     0.807     0.769       171
+         rbp      0.330     0.485     0.393        68
+
+    accuracy                          0.696       460
+   macro avg      0.643     0.656     0.640       460
+weighted avg      0.738     0.696     0.708       460
+
+
+Runtime: 0.05459789999997611 seconds

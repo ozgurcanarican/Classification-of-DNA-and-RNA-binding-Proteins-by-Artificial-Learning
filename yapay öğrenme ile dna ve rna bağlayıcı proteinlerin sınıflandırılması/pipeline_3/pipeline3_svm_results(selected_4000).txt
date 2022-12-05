@@ -1,0 +1,32 @@
+PIPELINE-3 SVM RESULTS
+
+    -4000 features selected
+    -Support Vector Machine Classifier trained
+
+Train Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.689     0.662     0.676      1072
+         dbp      0.612     0.578     0.594      1028
+         rbp      0.599     0.655     0.626      1050
+
+    accuracy                          0.632      3150
+   macro avg      0.633     0.632     0.632      3150
+weighted avg      0.634     0.632     0.632      3150
+
+
+Test Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.597     0.605     0.601       428
+         dbp      0.579     0.521     0.548       472
+         rbp      0.534     0.582     0.557       450
+
+    accuracy                          0.568      1350
+   macro avg      0.570     0.570     0.569      1350
+weighted avg      0.569     0.568     0.568      1350
+
+
+Runtime: 31816.2503836 seconds
