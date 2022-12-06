@@ -1,0 +1,32 @@
+PIPELINE-5 RF RESULTS
+
+    -1000 features selected
+    -Random Forest Classifier trained
+
+Train Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.612     0.725     0.664      1072
+         dbp      0.614     0.485     0.542      1028
+         rbp      0.596     0.606     0.601      1050
+
+    accuracy                          0.607      3150
+   macro avg      0.607     0.605     0.602      3150
+weighted avg      0.607     0.607     0.603      3150
+
+
+Test Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.526     0.675     0.592       428
+         dbp      0.570     0.439     0.496       472
+         rbp      0.523     0.509     0.516       450
+
+    accuracy                          0.537      1350
+   macro avg      0.540     0.541     0.534      1350
+weighted avg      0.541     0.537     0.533      1350
+
+
+Runtime: 4098.427415599999 seconds

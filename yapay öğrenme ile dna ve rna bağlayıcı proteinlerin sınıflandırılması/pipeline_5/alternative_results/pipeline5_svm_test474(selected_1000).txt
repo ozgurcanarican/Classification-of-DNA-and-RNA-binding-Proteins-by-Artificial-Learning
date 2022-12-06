@@ -1,0 +1,19 @@
+PIPELINE-5 SVM RESULTS ON TEST474
+
+    -1000 features selected
+    -Support Vector Classifier trained
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.770     0.742     0.756       221
+         dbp      0.747     0.760     0.754       171
+         rbp      0.356     0.382     0.369        68
+
+    accuracy                          0.696       460
+   macro avg      0.624     0.628     0.626       460
+weighted avg      0.700     0.696     0.698       460
+
+
+Runtime: 0.8483991000000515 seconds

@@ -1,0 +1,19 @@
+PIPELINE-5 SVM RESULTS ON PDB255
+
+    -1000 features selected
+    -Support Vector Classifier trained
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.394     0.826     0.533        92
+         dbp      0.647     0.118     0.200        93
+         rbp      0.548     0.343     0.422        67
+
+    accuracy                          0.437       252
+   macro avg      0.529     0.429     0.385       252
+weighted avg      0.528     0.437     0.381       252
+
+
+Runtime: 0.48783370000001014 seconds

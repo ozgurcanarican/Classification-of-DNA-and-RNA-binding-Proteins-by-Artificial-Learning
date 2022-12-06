@@ -1,0 +1,34 @@
+PIPELINE-5 CNN-BILSTM RESULTS
+
+    -1000 features selected
+    -CNN-BiLSTM Classifier trained
+
+Train Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.618     0.677     0.646      1072
+         dbp      0.593     0.441     0.506      1028
+         rbp      0.568     0.656     0.609      1050
+
+   micro avg      0.593     0.593     0.593      3150
+   macro avg      0.593     0.591     0.587      3150
+weighted avg      0.593     0.593     0.588      3150
+ samples avg      0.593     0.593     0.593      3150
+
+
+Test Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.519     0.575     0.545       428
+         dbp      0.545     0.396     0.459       472
+         rbp      0.492     0.582     0.533       450
+
+   micro avg      0.515     0.515     0.515      1350
+   macro avg      0.519     0.518     0.512      1350
+weighted avg      0.519     0.515     0.511      1350
+ samples avg      0.515     0.515     0.515      1350
+
+
+Runtime: 31195.7262619 seconds
