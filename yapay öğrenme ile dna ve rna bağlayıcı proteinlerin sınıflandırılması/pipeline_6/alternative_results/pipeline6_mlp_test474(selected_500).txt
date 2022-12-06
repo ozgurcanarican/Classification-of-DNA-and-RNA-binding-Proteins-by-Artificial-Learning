@@ -1,0 +1,20 @@
+PIPELINE-6 MLP RESULTS ON TEST474
+
+    -500 features selected
+    -MLP Classifier trained
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.858     0.575     0.688       221
+         dbp      0.568     0.877     0.690       171
+         rbp      0.375     0.265     0.310        68
+
+   micro avg      0.641     0.641     0.641       460
+   macro avg      0.600     0.572     0.563       460
+weighted avg      0.679     0.641     0.633       460
+ samples avg      0.641     0.641     0.641       460
+
+
+Runtime: 0.08775800000012168 seconds
