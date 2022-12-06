@@ -1,0 +1,20 @@
+PIPELINE-4 MLP RESULTS ON PDB255
+
+    -2000 features selected
+    -MLP Classifier trained
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.446     0.717     0.550        92
+         dbp      0.474     0.194     0.275        93
+         rbp      0.455     0.448     0.451        67
+
+   micro avg      0.452     0.452     0.452       252
+   macro avg      0.458     0.453     0.425       252
+weighted avg      0.458     0.452     0.422       252
+ samples avg      0.452     0.452     0.452       252
+
+
+Runtime: 0.25990319999982603 seconds

@@ -1,0 +1,19 @@
+PIPELINE-4 RF RESULTS ON TEST474
+
+    -2000 features selected
+    -Random Forest Classifier trained
+
+Performance Score:
+
+              precision    recall  f1-score   support
+
+       nnabp      0.866     0.701     0.775       221
+         dbp      0.743     0.813     0.777       171
+         rbp      0.330     0.456     0.383        68
+
+    accuracy                          0.707       460
+   macro avg      0.646     0.657     0.645       460
+weighted avg      0.741     0.707     0.718       460
+
+
+Runtime: 0.051452100000005885 seconds
